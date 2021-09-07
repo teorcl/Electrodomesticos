@@ -12,4 +12,6 @@ document.write(licuadora.calcularPrecio);
 let whirpool = new Nevera(false,"A",200);
 document.write(whirpool.calcularPrecio);
 document.write(samsung.calcularPrecio);
+document.write(licuadora.mostrarInfo());
+document.close;
 

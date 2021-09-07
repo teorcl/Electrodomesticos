@@ -52,6 +52,11 @@ export default class Electrodomestico{
         }
         return this.precio;
     }
+
+    // mostrarInfo(){
+    //     this.precio=this.calcularPrecio;
+    //     return `<br>Precio: ${this.precio}</br>`
+    // }
      
 
 }
